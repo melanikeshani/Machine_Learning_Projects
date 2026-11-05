@@ -1,4 +1,4 @@
-Mars Rover Tracking with Hidden Markov Models (ECE368)
+**Mars Rover Tracking with Hidden Markov Models (ECE368)**
  
 An exact probabilistic inference project tracking the trajectory of a wandering Mars Rover across a 2D grid using noisy and missing sensor observations.
 
