@@ -3,6 +3,7 @@ Mars Rover Tracking with Hidden Markov Models (ECE368)
 An exact probabilistic inference project tracking the trajectory of a wandering Mars Rover across a 2D grid using noisy and missing sensor observations.
 
 **Overview**
+
 A rover wanders on a 12x8 grid. Its exact coordinates and previous actions are hidden; ground control only receives noisy, discretized sensor readings subject to telemetry loss (missing observations).This project implements exact Hidden Markov Model (HMM) algorithms to reconstruct the rover's trajectory:
 
 <img width="345" height="220" alt="image" src="https://github.com/user-attachments/assets/44f003d6-1f92-46e2-8c95-885599537d47" />
